@@ -1,5 +1,7 @@
 # Smart Airport Ride Pooling Backend System
 
+![Smart Airport Ride Pooling Architecture](./SAP.png)
+
 A production-grade backend system for smart ride pooling that optimizes passenger grouping, route planning, and dynamic pricing. Built with **Hono + TypeScript + Cloudflare D1**.
 
 [![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-green)]()
